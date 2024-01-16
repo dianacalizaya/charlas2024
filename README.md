@@ -28,7 +28,7 @@
 ##  💻 Un poco de mi
 
 - Soy Gold Microsoft Learn Student Ambassador `<conoce un poco más aquí>` [¿Quieres ser MLSA?](https://www.tiktok.com/@diana.calizaya/video/7304772792841456902?is_from_webapp=1&sender_device=pc&web_id=7313691718099453446)
-- Formo parte de Women Techmakers `<conoce sobre el programa aquí>` [¿Que es WTM?]()
+- Formo parte de Women Techmakers `<conoce sobre el programa aquí>` [¿Que es WTM?](https://www.tiktok.com/@diana.calizaya/video/7322192355522530565?is_from_webapp=1&sender_device=pc&web_id=7324845610451469830)
 
 
  <a href="https://gdg.community.dev/gdg-la-paz/?wt.mc_id=studentamb_109888" title="GDG"><img width="50" src="https://user-images.githubusercontent.com/96246255/213929634-719d53ce-9d51-48b1-82e6-496ded7cd41d.png" /></a>
