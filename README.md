@@ -43,7 +43,7 @@
 - Github Codespace `<Charla sobre como hacer un Portfolio Site con Github Codespaces>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Github%20Codespaces%20Portfolio.pdf)
 
 - ##  🦋 Charlas 2024
-- Road to IWD El Alto `<Que es IWD y la importancia de IA>` [Contenido aquí]()
+- Road to IWD El Alto `<Que es IWD y la importancia de IA>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Impact%20the%20future%20con%20IA%20%20.pdf)
 - IWD El Alto `<Charla sobre IA responsable y Vertex IA>` [Contenido aquí]()
 - IWD Ada in Data `<Charla sobre >` [Contenido aquí]()
 
