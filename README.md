@@ -47,5 +47,5 @@
 - IWD El Alto `<Charla sobre IA responsable y Vertex IA>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Explorando%20la%20IA%20Responsable%20con%20Vertex%20AI%20.pdf)
 - IWD Ada in Data `<Charla sobre >` [Contenido aquí]()
 - Global AI Bootcamp `<Charla sobre >` [Contenido aquí]()
-- Dev Team 504 `<Azure Open AI y la Revolución de la Inteligencia Artificial Generativa>` [Contenido aquí]()
+- Dev Team 504 `<Azure Open AI y la Revolución de la Inteligencia Artificial Generativa>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20Open%20AI%20y%20la%20Revoluci%C3%B3n%20de%20la%20Inteligencia%20Artificial%20Generativa%20.pdf)
 
