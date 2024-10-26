@@ -40,7 +40,7 @@
 
 ###  🦋 Charlas 2023
 - Pycon Bolivia `<Charla sobre Open IA Platform>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Pycon%20Bolivia%202023.pdf)
-- Github Codespace `<Charla sobre como hacer un Portfolio Site con Github Codespaces>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Github%20Codespaces%20Portfolio.pdf)
+- Github Codespace `<Charla sobre como hacer un Portfolio Site con Github Codespaces>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20UPB%20Hackathon.pdf)
 
 ###  🎙️ Charlas 2024
 - Road to IWD El Alto `<Que es IWD y la importancia de IA>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Impact%20the%20future%20con%20IA%20%20.pdf)
