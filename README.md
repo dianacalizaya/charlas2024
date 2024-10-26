@@ -48,11 +48,13 @@
 - IWD Ada in Data `<Charla sobre >` [Contenido aquí]()
 - Global AI Bootcamp `<Charla sobre >` [Contenido aquí]()
 - Dev Team 504 `<Azure Open AI y la Revolución de la Inteligencia Artificial Generativa>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20Open%20AI%20y%20la%20Revoluci%C3%B3n%20de%20la%20Inteligencia%20Artificial%20Generativa%20.pdf)
-- Hackathon de automatización UPB `<Azure para la optimización y Copilot Studio>` [Contenido aquí] (https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20UPB%20Hackathon.pdf)
+- Hackathon de automatización UPB `<Azure para la optimización y Copilot Studi>` [Contenido aquí]()
+
+  
 ### 🏆 Recursos indispensables para un dev
 
 * Azure for students `<100 creditos gratuitos para comenzar con Azure>` [Aquí](https://azure.microsoft.com/en-us/free/students?wt.mc_id=studentamb_109888)
 * Microsoft for founders `<créditos en Open IA & Azure para starups>` [Aquí](https://foundershub.startups.microsoft.com/?wt.mc_id=studentamb_109888)
 * Github Developer Pack `<Herramientas y recuross gratuitos para estudiantes>` [Aquí](https://education.github.com/pack)
 * Microsoft Learn `<Plataforma de aprendizaje gratuita>` [Aquí](https://learn.microsoft.com/es-es/training?wt.mc_id=studentamb_109888)
-* Microsoft Blog `<Últimas ovedades de los servicios>` [Aquí]([https://learn.microsoft.com/es-es/training?wt.mc_id=studentamb_109888](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs?wt.mc_id=studentamb_109888))
+* Microsoft Blog `<Últimas ovedades de los servicios>` [Aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20UPB%20Hackathon.pdf)
