@@ -27,7 +27,7 @@
 
 ##  💻 Un poco de mi
 
-- Soy Gold Microsoft Learn Student Ambassador `<conoce un poco más aquí>` [¿Quieres ser MLSA?](https://www.tiktok.com/@diana.calizaya/video/7304772792841456902?is_from_webapp=1&sender_device=pc&web_id=7313691718099453446)
+- Soy MVP de Microsoft y Gold Microsoft Learn Student Ambassador `<conoce un poco más aquí>` [¿Quieres ser MLSA?](https://www.tiktok.com/@diana.calizaya/video/7304772792841456902?is_from_webapp=1&sender_device=pc&web_id=7313691718099453446)
 - Formo parte de Women Techmakers `<conoce sobre el programa aquí>` [¿Que es WTM?](https://www.tiktok.com/@diana.calizaya/video/7322192355522530565?is_from_webapp=1&sender_device=pc&web_id=7324845610451469830)
 
 
@@ -48,7 +48,7 @@
 - IWD Ada in Data `<Charla sobre >` [Contenido aquí]()
 - Global AI Bootcamp `<Charla sobre >` [Contenido aquí]()
 - Dev Team 504 `<Azure Open AI y la Revolución de la Inteligencia Artificial Generativa>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20Open%20AI%20y%20la%20Revoluci%C3%B3n%20de%20la%20Inteligencia%20Artificial%20Generativa%20.pdf)
-
+- Hackathon de automatización UPB `<Azure para la optimización y Copilot Studio>` [Contenido aquí](https://github.com/dianacalizaya/charlas2024/blob/main/Azure%20Open%20AI%20y%20la%20Revoluci%C3%B3n%20de%20la%20Inteligencia%20Artificial%20Generativa%20.pdf)
 
 ### 🏆 Recursos indispensables para un dev
 
